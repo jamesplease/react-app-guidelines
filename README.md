@@ -20,15 +20,15 @@ The guidelines are organized into sections. Click an item to learn more about it
 
 - [Strict Mode](./guidelines/react-guidelines.md#strict-mode)
 - [Top-level Error Boundary](./guidelines/react-guidelines.md#top-level-error-boundary)
-- Error Boundaries
-- React Router
-- History with Query
-- Modals
+- [Error Boundaries](./guidelines/react-guidelines.md#error-boundaries)
+- [React Router](./guidelines/react-guidelines.md#react-router)
+- [History with Query](./guidelines/react-guidelines.md#history-with-query)
+- [Modals](./guidelines/react-guidelines.md#modals)
 
 ### JS Guidelines
 
-- Lodash/Ramda?
-- TypeScript
+- [Lodash/Ramda](./guidelines/js-guidelines.md#lodash-ramda)
+- [TypeScript](./guidelines/js-guidelines.md#typescript)
 
 ### CSS Guidelines
 
@@ -43,8 +43,8 @@ The guidelines are organized into sections. Click an item to learn more about it
 
 ### Developer Experience
 
-- Prettier
-- ESLint
+- [Prettier](./guidelines/developer-experience.md#prettier)
+- [ESLint](./guidelines/developer-experience.md#eslint)
 
 ### Testing
 
