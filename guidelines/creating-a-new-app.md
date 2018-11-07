@@ -17,4 +17,9 @@ For me, the pros of CRA outweigh any cons.
 
 #### Disable inline chunks
 
-...not good for CSP without nonces
+By default, Create React App inlines a small runtime script into `index.html`. This script does not have a nonce,
+so it requires that you allow unsafe-inline in your JavaScript CSP. For this reason, I disable it by using the
+`INLINE_RUNTIME_CHUNK` option.
+
+You can learn more about this option on the
+[Advanced Configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration) page of CRA.

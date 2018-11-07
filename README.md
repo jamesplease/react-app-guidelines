@@ -14,12 +14,12 @@ The guidelines are organized into sections. Click an item to learn more about it
 
 ### Creating a New App
 
-- Create React App
+- [Create React App](./guidelines/creating-a-new-app.md#create-react-app)
 
 ### React Guidelines
 
-- Strict Mode
-- Top-level Error Boundary
+- [Strict Mode](./guidelines/react-guidelines.md#strict-mode)
+- [Top-level Error Boundary](./guidelines/react-guidelines.md#top-level-error-boundary)
 - Error Boundaries
 - React Router
 - History with Query
