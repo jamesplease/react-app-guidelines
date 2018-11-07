@@ -27,7 +27,7 @@ The guidelines are organized into sections. Click an item to learn more about it
 
 ### JS Guidelines
 
-- [Lodash/Ramda](./guidelines/js-guidelines.md#lodash-ramda)
+- [Lodash](./guidelines/js-guidelines.md#lodash)
 - [TypeScript](./guidelines/js-guidelines.md#typescript)
 
 ### CSS Guidelines
