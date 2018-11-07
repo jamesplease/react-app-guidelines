@@ -1,6 +1,6 @@
 # react-app-guidelines
 
-> Last updated: Nov. 5th, 2018
+> Last updated: Nov. 6th, 2018
 
 I frequently find myself creating new React apps, both professionally for Netflix and for side projects. There's a
 considerable amount of set up that goes into building new apps, and sometimes I forget my preferences.
