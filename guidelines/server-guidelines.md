@@ -1,0 +1,3 @@
+# Server Guidelines
+
+...coming soon
