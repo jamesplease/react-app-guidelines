@@ -1,4 +1,4 @@
-# react-app-guidelines
+# React App Guidelines
 
 > Last updated: Nov. 6th, 2018
 
@@ -7,6 +7,9 @@ considerable amount of set up that goes into building new apps, and sometimes I 
 
 That's where this guide comes in. It's a list of libraries, configuration, and settings that I try to follow when building
 React apps.
+
+> Heads up! These guidelines aren't intended to reflect any "correct" way to do things, or anything like that. This
+> really is just a list of things for me to remember. If you find it useful, too, then that's great!
 
 ## Guidelines
 
